@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="adactinTesting">
+<test name="test_01">
+<classes>
+<class  name="com.adactine.HotelBooking">
+
+</class>
+
+</classes>
+
+
+</test>
+
+
+</suite>
